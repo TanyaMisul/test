@@ -5,5 +5,6 @@ public class Main {
         System.out.println("good");
         System.out.println("yes");
         System.out.println("54321");
+        System.out.println("happy");
     }
 }
